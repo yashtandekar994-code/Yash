@@ -1,1 +1,1 @@
-# Yash
+# Inventory management system
